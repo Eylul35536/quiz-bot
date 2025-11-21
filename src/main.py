@@ -5,6 +5,4 @@ def hello():
     return "Hello, World!"
 
 if __name__ == "__main__":
-    main()
-def hello():
-    return "Hello, world!"
+    main() 
